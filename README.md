@@ -16,3 +16,5 @@ The aim of this project is to provide a hands-on approach to understanding how n
 - Simulation of Neuron Dynamics: Explore how individual neurons respond to inputs and how they can be linked together.
 - Optimization with Gradient Descent: Learn about the optimization process in training neural networks through a hands-on implementation of the gradient descent algorithm.
 - Integration and Testing: Utilize the engine to combine various components, test different configurations, and observe the outcomes in a controlled environment.
+
+test
